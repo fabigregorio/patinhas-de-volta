@@ -5,7 +5,7 @@
 ---
 
 ## 🔗 Link do Site Online (Deploy)
-- **Acesse o projeto:** [https://fabigregorio.github.io/patinhas-de-volta/](https://fabigregorio.github.io/patinhas-de-volta/)
+- **Acesse o projeto:** [https://fabigregorio.github.io/patinhas-de-volta/](https://fabigregorio.github.io/patinhas-de-volta/html)
 
 ---
 
